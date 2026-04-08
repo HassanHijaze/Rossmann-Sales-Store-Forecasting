@@ -1,3 +1,4 @@
+
 # Rossmann Store Sales Forecasting
 
 ## Project Overview
@@ -66,14 +67,3 @@ From the exploratory analysis, several patterns were observed:
 - School holidays show a smaller but noticeable effect on sales.
 
 These observations help explain the structure of the dataset and provide useful context before moving to preprocessing and model building.
-
-
-
-# Rossmann-Sales-Forecasting
-# Rossmann-Sales-Forecasting
-# Rossmann-Sales-Forecasting
-# rossmann-store-sales-forecasting
-# rossmann-store-sales-forecasting
-# rossmann-store-sales-forecasting
-# Rossmann-Sales-Store-Forecasting
-# Rossmann-Sales-Store-Forecasting
